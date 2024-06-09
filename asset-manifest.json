@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tracking2_Sa/static/css/main.b4acd22d.css",
+    "main.js": "/tracking2_Sa/static/js/main.76c0da3b.js",
+    "static/js/453.917491d9.chunk.js": "/tracking2_Sa/static/js/453.917491d9.chunk.js",
+    "static/media/zippyy_logo.svg": "/tracking2_Sa/static/media/zippyy_logo.e3a2cbb1b5567999d625f101db9a6699.svg",
+    "static/media/Phone.svg": "/tracking2_Sa/static/media/Phone.bcd06364abef3677fca8435a7a8f99d8.svg",
+    "index.html": "/tracking2_Sa/index.html",
+    "static/media/Vector.svg": "/tracking2_Sa/static/media/Vector.045283ef35410e474ba9124537d03f49.svg",
+    "main.b4acd22d.css.map": "/tracking2_Sa/static/css/main.b4acd22d.css.map",
+    "main.76c0da3b.js.map": "/tracking2_Sa/static/js/main.76c0da3b.js.map",
+    "453.917491d9.chunk.js.map": "/tracking2_Sa/static/js/453.917491d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4acd22d.css",
+    "static/js/main.76c0da3b.js"
+  ]
+}
